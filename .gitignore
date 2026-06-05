@@ -115,3 +115,6 @@ a.out
 build/
 dist/
 target/
+
+# 忽略待办事项目录
+todo
