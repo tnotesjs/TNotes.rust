@@ -18,13 +18,12 @@
     },
     "title": "rust",
     "completed_notes_count": {
-      "26.06": 0
+      "26.06": 0,
+      "26.07": 0,
+      "26.08": 0
     },
     "details": "rust 笔记",
-    "link": "https://tnotesjs.github.io/TNotes.rust/",
-    "created_at": 1780670082000,
-    "updated_at": 1782718114000,
-    "days_since_birth": 9863
+    "link": "https://tnotesjs.github.io/TNotes.rust/"
   },
   "port": 9839,
   "menuItems": [
