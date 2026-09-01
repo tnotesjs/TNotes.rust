@@ -20,7 +20,8 @@
     "completed_notes_count": {
       "26.06": 0,
       "26.07": 0,
-      "26.08": 0
+      "26.08": 0,
+      "26.09": 0
     },
     "details": "rust 笔记",
     "link": "https://tnotesjs.github.io/TNotes.rust/"
