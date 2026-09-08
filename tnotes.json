@@ -1,0 +1,21 @@
+{
+  "title": "rust",
+  "name": "TNotes.rust",
+  "description": "rust 笔记",
+  "icon": {
+    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/assets/icon--rust.svg"
+  },
+  "repositoryUrl": "https://github.com/tnotesjs/TNotes.rust",
+  "port": 9839,
+  "pageUrl": "https://tnotesjs.github.io/TNotes.rust/",
+  "base": "/TNotes.rust/",
+  "stats": {
+    "enabled": true,
+    "completedNotesCount": {
+      "26.06": 0,
+      "26.07": 0,
+      "26.08": 0,
+      "26.09": 0
+    }
+  }
+}
