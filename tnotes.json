@@ -10,12 +10,6 @@
   "pageUrl": "https://tnotesjs.github.io/TNotes.rust/",
   "base": "/TNotes.rust/",
   "stats": {
-    "enabled": true,
-    "completedNotesCount": {
-      "26.06": 0,
-      "26.07": 0,
-      "26.08": 0,
-      "26.09": 0
-    }
+    "enabled": true
   }
 }
