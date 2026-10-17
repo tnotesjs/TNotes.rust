@@ -3,7 +3,7 @@
   "name": "TNotes.rust",
   "description": "rust 笔记",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/assets/icon--rust.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.rust",
   "port": 9839,
